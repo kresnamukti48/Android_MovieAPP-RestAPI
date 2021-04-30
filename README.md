@@ -35,4 +35,5 @@ menambahkan parameter serta mengirim data berupa image ke server.
 
 # Hasil
 ![movie1](https://user-images.githubusercontent.com/63852448/116710492-0410e180-a9fc-11eb-9518-3165d4be9206.jpg)
+![movie2](https://user-images.githubusercontent.com/63852448/116710547-13902a80-a9fc-11eb-92a9-b08acafd3ea4.jpg)
 
